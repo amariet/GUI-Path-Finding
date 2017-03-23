@@ -1,5 +1,3 @@
-//Kara Herson
-//Path finding project
 
 //fix mouse pressed --> appearance/destruction of obstacle in cell
 public Grid grid; 
