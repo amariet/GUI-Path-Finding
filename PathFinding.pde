@@ -1,5 +1,3 @@
-//Kara Herson
-//Path finding project
 
 /*
 green = start cell
