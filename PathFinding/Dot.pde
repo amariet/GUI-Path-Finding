@@ -16,5 +16,18 @@ public class Dot {
    fill(fillColor);
    ellipse (x, y, diameter, diameter);
  }
-  
+ 
+ public int getX() {
+   return x;
+ }
+ 
+ public int getY() {
+   return y;
+ }
+ 
+ public void move (int newX, int newY) {
+   x = newX;
+   y = newY;
+   drawDot();
+ }
 }
